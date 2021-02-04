@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://github.com/rjc552/rjc552/blob/main/WaysOfSeeing.html
+ https://rjc552.github.io/rjc552/
 
 <!--
 **rjc552/rjc552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
