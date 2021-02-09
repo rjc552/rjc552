@@ -1,8 +1,5 @@
 ### Ruby's Class Site
 
-https://docs.google.com/document/d/1naHHAj8shHBYmMhCZowH_8wB8M6TnPtOztB2GwpWSds/edit?usp=sharing
-
-https://rjc552.github.io/rjc552/
 
 
 
