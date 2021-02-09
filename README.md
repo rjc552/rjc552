@@ -1,13 +1,10 @@
 ### Ruby's Class Site
-
-<!DOCTYPE html>
 <html>
  <head>
   </head>
 
   <body style = "background-color: rgb(193, 230, 243);">
- <link rel="Week 1" href=" https://docs.google.com/document/d/1naHHAj8shHBYmMhCZowH_8wB8M6TnPtOztB2GwpWSds/edit?usp=sharing">
-
+<p style= "color:rgb(228, 196, 92); font-size:100px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">Ways  of  Seeing </p>
 </body>
 
 </html>
