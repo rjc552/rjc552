@@ -3,11 +3,10 @@
 <!DOCTYPE html>
 <html>
  <head>
-   <title> Ruby's Site </title>
   </head>
 
   <body style = "background-color: rgb(193, 230, 243);">
- <link rel="Week 1" href=" WaysofSeeing.html">
+ <link rel="Week 1" href=" https://docs.google.com/document/d/1naHHAj8shHBYmMhCZowH_8wB8M6TnPtOztB2GwpWSds/edit?usp=sharing">
 
 </body>
 
