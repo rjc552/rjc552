@@ -1,4 +1,5 @@
 ### Ruby's Class Site
+
 <!DOCTYPE html>
 <html>
  <head>
