@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ruby's Class Site
+
+
  https://rjc552.github.io/rjc552/
 
 <!--
