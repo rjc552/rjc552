@@ -1,7 +1,4 @@
 ### Ruby's Class Site
-
-https://github.com/rjc552/rjc552/blob/main/WaysOfSeeing.html
-
  https://rjc552.github.io/rjc552/
 
 <!--
