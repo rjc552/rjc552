@@ -4,6 +4,8 @@
 
   <body style = "background-color: rgb(193, 230, 243);">
 <p style= "color:rgb(228, 196, 92); font-size:100px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">Ruby's Site</p>
+ 
+ <link>file:///Users/ruby/Desktop/Webdev/Assignments/WaysOfSeeing.html</link>
 </body>
 
 </html>
