@@ -5,7 +5,7 @@
   <body style = "background-color: rgb(193, 230, 243);">
 <p style= "color:rgb(228, 196, 92); font-size:100px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">Ruby's Site</p>
  
- <a href="https://github.com/rjc552/rjc552/blob/main/WaysOfSeeing.html">Ways Of Seeing</a>
+ <a href="https://rjc552.github.com/\WaysOfSeeing.html">Ways Of Seeing</a>
  
  
 </body>
