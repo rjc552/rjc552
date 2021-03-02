@@ -9,7 +9,7 @@
  <div class="container">
         <div class="menu">
             <ul>
-             <li class="active"><a href="rjc.github.io/index.md"> Home</a></li>
+             <li class="active"><a href="https://rjc552.github.io"> Home</a></li>
                 <li class="active"><a href="https://rjc552.github.io/waysofseeing.html">Ways Of Seeing</a></li>
                 <li class="active"> Portrait</li>
             </ul>
