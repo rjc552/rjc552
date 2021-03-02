@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: #7bbdb9;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+.face{
+    position: relative;
+    top: 150px;
+    left: 250px;
+    background-color: #d4bd9d;
+    height: 400px;
+    width: 300px;
+    border-radius: 100px;
+}
+.eye-1, .eye-2 {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 100px;
+    left:300px;
+}
+
+.eye-2{
+    position: relative;
+    left: 460px;
+    bottom: 150px;
+}
+.mustache{
+    width: 300px;
+    height: 150px;
+    left: 250px;
+    bottom:100px;
+    border-radius: 30%;
+    position: relative;
+    background-color: black;
+}
+.mouth{
+    width: 200px;
+    height: 50px;
+    left: 300px;
+    bottom:200px;
+    border-radius: 30%;
+    position: relative;
+    background-color: #d4bd9d
+}
+.hair{
+    width: 350px;
+    height: 80px;
+   bottom: 550px;
+    left: 240px;
+    border-radius: 80px 0 80px 0 ;
+    position: relative;
+    background-color: black;
+}
+.book-1{
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    background-color: #5e201e;
+    height: 250px;
+    width: 200px;
+    border-top-right-radius: 200px;
+}
+.book-2{
+    position: absolute;
+    top: 400px;
+    left: 450px;
+    background-color: #5e201e;
+    height: 250px;
+    width: 200px;
+    border-top-left-radius: 200px;
+}
+.text{
+    color:antiquewhite
+    transform: rotate(-22.5deg) skew(-22.5deg);
+}
