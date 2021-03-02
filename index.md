@@ -2,7 +2,7 @@
  <head>
   <link rel="stylesheet" href="style.css">
   </head>
-<body>
+ <body style = "background-color: rgb(193, 230, 243);">
  <div class="container">
         <div class="menu">
             <ul>
