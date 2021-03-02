@@ -2,7 +2,7 @@
  <head>
   <link rel="stylesheet" href="style.css">
   </head>
-
+<body>
  <div class="container">
         <div class="menu">
             <ul>
@@ -12,7 +12,6 @@
             </ul>
         </div>
     </div>
- 
  
 </body>
 
