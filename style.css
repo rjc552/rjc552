@@ -10,7 +10,7 @@
     margin:0;
     padding:0;
 .menu ul{
-    display: inline-flex;
+    display: inline;
     margin: 50px;
 }
 .menu ul li{
