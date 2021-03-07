@@ -10,6 +10,7 @@
     margin:0;
     padding:0;
 .menu ul{
+    list-style: none;
     display: inline;
     margin: 50px;
 }
