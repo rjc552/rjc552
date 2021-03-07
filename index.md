@@ -8,7 +8,7 @@
             <ul>
              <li class="active"><a href="https://rjc552.github.io"> Home</a></li>
                 <li class="active"><a href="https://rjc552.github.io/waysofseeing.html">Ways Of Seeing</a></li>
-             <li class="active"><a href="https://rjc552.github.io/Portrait.html"> Portrait</a></li>
+             <li class="active"><a href="https://rjc552.github.io/week4/Portrait.html"> Portrait</a></li>
             </ul>
         </div>
     </div>
