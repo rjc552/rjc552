@@ -9,6 +9,12 @@
     color: rgb(193, 230, 243);
     margin:0;
     padding:0;
+}
+.h1 {
+    color: darkgoldenrod ;
+    text-align: center;
+    font-family:'Times New Roman';
+    font-size: 60px;
 .menu ul{
     list-style: none;
     display: inline;
