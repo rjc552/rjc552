@@ -11,14 +11,14 @@
     padding:0;
 }
 .h1 {
-    color: darkgoldenrod ;
+    color:#b8860b;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', serif;
     font-size: 60px;
 }
 .menu ul{
     list-style: none;
-    display: inline;
+    display: inline-block;
     margin: 50px;
 }
 .menu ul li{
