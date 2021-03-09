@@ -5,8 +5,8 @@
  <body style = "background-color: rgb(193, 230, 243);">
  <div class="container">
       <h1> Ruby's Class Site <h1>
-        <div class="menu">
-            <ul>
+        <div>
+            <ul class="menu">
              <li class="active"><a href="https://rjc552.github.io"> Home</a></li>
                 <li class="active"><a href="https://rjc552.github.io/waysofseeing.html">Ways Of Seeing</a></li>
              <li class="active"><a href="https://rjc552.github.io/week4/Portrait.html"> Portrait</a></li>
