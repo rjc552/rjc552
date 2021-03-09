@@ -13,8 +13,9 @@
 .h1 {
     color: darkgoldenrod ;
     text-align: center;
-    font-family:'Times New Roman';
+    font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
+}
 .menu ul{
     list-style: none;
     display: inline;
