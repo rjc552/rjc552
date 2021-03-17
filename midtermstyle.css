@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    display: flex;
+    width: 90%;
+    height: 140px;
+    margin: auto;
+    align-items: center;
+  
+}
+.name-container, 
+.nav-links{
+    display: flex;
+    
+}
+.name-container{
+    flex: 1;
+}
+
+nav{
+    flex: 1;
+}
+.nav-links{
+    justify-content: space-between;
+    list-style: none;
+
+}
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.css-selector {
+    background: linear-gradient(93deg, #fd76c8, #dfb663);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 24s ease infinite;
+    -moz-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 58%}
+    50%{background-position:100% 43%}
+    100%{background-position:0% 58%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 58%}
+    50%{background-position:100% 43%}
+    100%{background-position:0% 58%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 58%}
+    50%{background-position:100% 43%}
+    100%{background-position:0% 58%}
+}
+.presentation {
+    display:flex;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+    align-items: center;
+
+}
+.introduction {
+    flex: 1;
+    animation: slide-right 1.5s ease;
+    margin-bottom: 150px;
+ 
+}
+.intro-text {
+    font-size: 50px;
+    font-weight: 500px;
+    color: white;
+
+}
+p {
+    font-size: 30px;
+    font-weight: 100px;
+    color: white;
+   
+}
+.cover img {
+    height: 65vh;
+    flex: 1;
+    margin-top: 30px;
+    animation: drop 1.5s ease;
+}
+
+@keyframes drop{
+    0%{
+        opacity: 0;
+        transform: translateY(-80px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+@keyframes slide-right{
+    0%{
+        opacity: 0;
+        transform: translateX(-80px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+    /*Profile*/
+
+.container {
+    width: 100%;
+    background-color: white;
+}
+#profile{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    
+}
+.about-text {
+    margin: 30px;
+    flex: 1;
+    animation: slide-right 1.5s ease;
+}
+.me img {
+    flex: 1;
+}
+h2 {
+    font-size: 30px;
+}
+.about-text p {
+    margin-top: 10px;
+    font-size: 25px;
+    color: black;
+
+}
