@@ -22,19 +22,26 @@ header {
 }
 .name-container{
     flex: 1;
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
 }
 
 nav{
     flex: 1;
 }
 .nav-links{
-    justify-content: space-between;
+    justify-content:space-evenly;
     list-style: none;
 
 }
 .nav-link {
     color: white;
     text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 5px;
+ 
 }
 
 .css-selector {
@@ -65,8 +72,8 @@ nav{
     display:flex;
     width: 70%;
     margin: auto;
-    margin-bottom: 40px;
     align-items: center;
+
 
 }
 .introduction {
@@ -79,6 +86,7 @@ nav{
     font-size: 50px;
     font-weight: 500px;
     color: white;
+    margin-right: 50px;
 
 }
 p {
@@ -88,16 +96,17 @@ p {
    
 }
 .cover img {
-    height: 65vh;
+    height: 500px;
     flex: 1;
     margin-top: 30px;
+    margin-bottom: 30px;
     animation: drop 1.5s ease;
 }
 
 @keyframes drop{
     0%{
         opacity: 0;
-        transform: translateY(-80px);
+        transform: translateY(-100px);
     }
     100% {
         opacity: 1;
@@ -107,7 +116,7 @@ p {
 @keyframes slide-right{
     0%{
         opacity: 0;
-        transform: translateX(-80px);
+        transform: translateX(-200px);
     }
     100% {
         opacity: 1;
@@ -116,31 +125,97 @@ p {
 }
     /*Profile*/
 
-.container {
-    width: 100%;
-    background-color: white;
-}
-#profile{
+#About {
+    width: 70%;
     display: flex;
-    width: 50%;
-    margin: auto;
+    padding: 50px;
+  
+
+}
+.container {
     align-items: center;
-    
+    height: 70%;
+    width: 70%;
+    color: white;
+
 }
-.about-text {
-    margin: 30px;
+
+.profile-text{
     flex: 1;
-    animation: slide-right 1.5s ease;
-}
-.me img {
-    flex: 1;
-}
-h2 {
-    font-size: 30px;
-}
-.about-text p {
-    margin-top: 10px;
+    width: 50%;
+    margin-right: 50px;
     font-size: 25px;
     color: black;
+    animation: slide-right 1.5s ease;
+    text-align: center;
+      
+}
+.profile-text h2 {
+    font-weight: 600;
+}
+.profile-text p {
+    margin-top: 10px;
+    color: black;
 
+}
+.profile-photo img {
+    margin: auto;
+    align-items: center;
+    flex: 1;
+}
+.title-text{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    animation: drop 1.5s ease;
+}
+#pages {
+    width: 100%;
+    padding: 70px 0;
+}
+.page-box {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    
+}
+.single-page {
+    flex-basis: 48%;
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    color: white; 
+      
+}
+.single-page img {
+    width: 100%;
+    border-radius: 7px;
+    margin-bottom: 0px;
+   
+}
+#gallery {
+    width: 100%;
+    align-items: center;
+}
+.illustration {
+    text-align: center;
+    border-radius: 7px;
+    color: white; 
+    margin-bottom: 50px;
+
+}
+.illustration img {
+    animation: slide-right 1.5s ease;
+    border-radius: 7px;
+    height: 300px;
+}
+.Description {
+    height: 500px;
+    flex: 1;
+    margin-left: 30px;
+    animation: drop 1.5s ease;
 }
