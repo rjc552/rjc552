@@ -1,4 +1,4 @@
-#background{
+ #background{
     background-image: url("Room.png");
     height: 100%;
     background-position: center;
@@ -54,8 +54,4 @@
     font-size: 25px;
     font-family: 'Montserrat', sans-serif;
     transition: all .4s ease-in-out;
-  }
-  .answers:hover{
-      background-color: cornsilk;
-      cursor: pointer;
   }
