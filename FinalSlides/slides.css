@@ -15,8 +15,9 @@ img{
     font-size: medium;
 }
 .text{
-    height: 28vh;
+    margin-top:20px;
+    height: 30vh;
     width: auto;
-    padding: auto;
+    padding: 10px;
     background-color: white;
 }
