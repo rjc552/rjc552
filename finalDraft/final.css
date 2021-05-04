@@ -18,22 +18,22 @@ html,body{
 
 
 #myInput {
-    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
-    background-position: 10px 12px; /* Position the search icon */
-    background-repeat: no-repeat; /* Do not repeat the icon image */
-    width: 50vh; /* Full-width */
-    font-size: 16px; /* Increase font-size */
-    padding: 12px 20px 12px 40px; /* Add some padding */
-    border: 2px solid #ddd; /* Add a grey border */
-     /* Add some space below the input */
+    background-image: url('/css/searchicon.png'); 
+    background-position: 10px 12px; 
+    background-repeat: no-repeat; 
+    width: 50vh; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    border: 2px solid #ddd; 
+  
     margin: 10px;
 }
   
   #myTable {
-    border-collapse: collapse; /* Collapse borders */
-    width: 50vh; /* Full-width */
-    border: 2px solid #ddd; /* Add a grey border */
-    font-size: 20px; /* Increase font-size */
+    border-collapse: collapse; 
+    width: 50vh; 
+    border: 2px solid #ddd; 
+    font-size: 20px;
     margin-left: 10px;
     margin-right: 20px;
     margin-top: 0px;
@@ -43,12 +43,12 @@ html,body{
   
   
   #myTable tr {
-    /* Add a bottom border to all table rows */
+   
     border-bottom: 1px solid #ddd;
     margin: 10px;
   }
   #myTable th {
-    /* Add a bottom border to all table rows */
+    
     border-bottom: 1px solid #ddd;
     padding-left: 10px;
   }
@@ -79,10 +79,10 @@ margin-top: 15px;
   margin: 5vh;
 }
 #bodyTable {
-  border-collapse: collapse; /* Collapse borders */
-  width: 100%; /* Full-width */
-  border: 2px solid #ddd; /* Add a grey border */
-  font-size: 20px; /* Increase font-size */
+  border-collapse: collapse; 
+  width: 100%; 
+  border: 2px solid #ddd; 
+  font-size: 20px; 
   margin-right: 20px;
   margin-top: 0px;
 
@@ -90,17 +90,17 @@ margin-top: 15px;
 
 
 #bodyTable td {
-  /* Add a bottom border to all table rows */
+ 
   border: 2px solid #ddd;
   padding: 10px;
 }
 #bodyTable th {
-  /* Add a bottom border to all table rows */
+
   border: 2px solid #ddd;
   padding: 10px;
 }
 #home{
-    background-color:rgb(120, 219, 194); /* Green */
+    background-color:rgb(120, 219, 194);
     border: none;
     color: white;
     padding: 5px 20px;
@@ -113,7 +113,7 @@ margin-top: 15px;
   }
 #home:hover {
    
-    background-color:rgb(246, 255, 253); /* Green */
+    background-color:rgb(246, 255, 253); 
     color: black;
     border: 1px solid gray;
   }
