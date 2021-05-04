@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby Final</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="final.js" defer></script>
+    <link rel= "stylesheet" type="text/css" href="final.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id="right">
+  <input type="text" id="myInput" onkeyup="myFunction()"onkeyup="F2()" placeholder="Search for names..">
+
+  <table id="myTable">
+  <tr class="header">
+    <th style="width:100%;">Drug</th>
+    
+  </tr>
+  <tr>
+    <td><button id="Adderall">Adderall (Amphetamine),</button></td>
+  </tr>
+  <tr>
+    <td><button id="Advil">Advil / Motrin (Ibuprofen)</button></td>
+  </tr>
+  <tr>
+    <td><button id="Alchohol">Alchohol</button></td>
+  </tr>
+  <tr>
+    <td><button id="Caffeine">Caffeine</button></td>
+  </tr>
+  <tr>
+    <td><button id="Cannabis">Cannabis (Marijuana)</button></td>
+  </tr>
+  <tr>
+    <td><button id="Cocaine">Cocaine</button></td>
+  </tr>
+  <tr>
+    <td><button id="DMT">DMT</button></td>
+  </tr> 
+  <tr>
+    <td><button id="Ecstasy">Ecstasy / Molly</button></td>
+  </tr>
+  <tr>
+    <td><button id="Fantanyl">Fantanyl</button></td>
+  </tr>
+  <tr>
+    <td><button id="Heroin">Heroin</button></td>
+  </tr>
+  <tr>
+    <td><button id="Ketamine">Ketamine</button></td>
+  </tr>
+  <tr>
+    <td><button id="Morphine">Morphine</button></td>
+  </tr>
+  <tr>
+    <td><button id="Nicotine">Nicotine</button></td>
+  </tr>
+  <tr>
+    <td><button id="Steroids">Steroids</button></td>
+  </tr>
+  <tr>
+    <td><button id="Tylenol">Tylenol (Acetaminophen)</button></td>
+  </tr>
+</table>
+</div>
+<div id= "container">
+<a href="index.html"><button id = "home"> Home</button></a>
+<h1 id ="H1">Where Do Drugs Act in the Body?</h1>
+<p id="p"> How it Works: <br> <br>
+  Search for, or click on, a drug to see where in the body it activates. <br> <br>
+This website uses <a href="https://tissues.jensenlab.org/Search">tissues.jensenlab.org</a> to show you what genes the drug targets, and where in the human body those genes are the most abundant. <br>
+Drugs, legal and illegal, work by targeting specific proteins, found in specific genes. By observing where those genes are located, one can learn more about how the drug affects the body. If a drug is known to, or intended to, target your heart, yet the target proteins are also heavily found in the eyes, it raises questions! <br>
+
+*** NOTE*** <br>
+The results are not a description of where the drug is designed to act, rather, it highlights where the proteins/enzymes the drug targets are found. 
+</p>
+<table id = "bodyTable">
+  <thead>
+  <tr>
+      <th>Tissue</th>
+      <th>Gene</th>
+      <th>Confidence</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td id="t1">Monte Falco</td>
+      <td id= "g1">1658</td>
+      <td id="c1">Parco Foreste Casentinesi</td>
+  </tr>
+  <tr>
+      <td id= "t2">Monte Falterona</td>
+      <td id= "g2">1654</td>
+      <td id="c2">Parco Foreste Casentinesi</td>
+  </tr>
+  <tr>
+    <td id= "t3">Monte Falterona</td>
+    <td id= "g3">1654</td>
+    <td id="c3">Parco Foreste Casentinesi</td>
+</tr>
+<tr>
+  <td id= "t4">Monte Falterona</td>
+  <td id= "g4">1654</td>
+  <td id="c4">Parco Foreste Casentinesi</td>
+</tr>
+  </tbody>
+</table>
+</div>
+</body>
+</html>
