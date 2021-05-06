@@ -103,7 +103,7 @@ if (page==1){
    rect(425,110,160,90)
    fill(0)
    textSize(15)
-   text("...until she was interupted\n by a call from behind her!",80,100)
+   text("...until she was interupted\n by a voice calling for her!",80,100)
    text("Her younger sister,\nFrancisca, had \nfollowed her against\nher wishes.",435,130)
    pop()
   }
