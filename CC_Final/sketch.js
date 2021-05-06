@@ -91,7 +91,7 @@ if (page==1){
    rect(70,170,210,90)
    fill(0)
    textSize(15)
-   text("A young girl, Gloria,\nwalked the forest alone.\nShe was lost in thought, \nand at peace...",80,190)
+   text("A young girl, Gloria,\nwalked the forest alone.\nShe was lost in thought, \nfeeling peaceful",80,190)
    pop()
   }
   if (page==3){
