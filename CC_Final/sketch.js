@@ -104,7 +104,7 @@ if (page==1){
    fill(0)
    textSize(15)
    text("...until she was interupted\n by a voice calling for her!",80,100)
-   text("Her younger sister,\nJulia, had \nfollowed her against\nher wishes.",435,130)
+   text("Her younger sister,\nJulia, had \nfollowed her!",435,130)
    pop()
   }
   
