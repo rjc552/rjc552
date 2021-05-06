@@ -9,6 +9,8 @@ let sounds;
 let x=0;
 //
 function preload(){
+  sound = loadSound('Birds-chirping-sound-effect.mp3');
+
 // load images
 // character and other attributes are will use for loop to cycle through
 }
