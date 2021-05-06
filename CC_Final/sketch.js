@@ -93,7 +93,7 @@ if (page==1){
    rect(70,170,210,90)
    fill(0)
    textSize(15)
-   text("A young girl, Gloria,\nwalked the forest alone.\nShe was lost in thought, \nfeeling peaceful",80,190)
+   text("A young girl,Mia ,\nwalked the forest alone.\nShe was lost in thought, \nfeeling peaceful",80,190)
    pop()
   }
   if (page==3){
@@ -104,7 +104,7 @@ if (page==1){
    fill(0)
    textSize(15)
    text("...until she was interupted\n by a voice calling for her!",80,100)
-   text("Her younger sister,\nFrancisca, had \nfollowed her against\nher wishes.",435,130)
+   text("Her younger sister,\nJulia, had \nfollowed her against\nher wishes.",435,130)
    pop()
   }
   
