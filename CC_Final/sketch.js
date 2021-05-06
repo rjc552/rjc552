@@ -15,7 +15,7 @@ function preload(){
 function setup() {
   createCanvas(600, 400);
   //load images
-  bg = loadImage('bg/1.jpg')
+  bg = loadImage('1.jpg')
   //buttons
   //Restart = createButton("Prev Page")
   Pbutton = createButton("Next Page")
