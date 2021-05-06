@@ -18,7 +18,6 @@ function preload(){
 function setup() {
   createCanvas(600, 400);
   //load images
-  cat=loadImage('cat/1.jpg')
   bg = loadImage('bg/1.jpg')
   //buttons
   //Restart = createButton("Prev Page")
@@ -121,14 +120,14 @@ function changeBg(){
     i = 0
   }
   i=i+1
-  bg = loadImage('bg/'+ i + '.jpg') 
+  bg = loadImage( i + '.jpg') 
   page = i 
 }
 
 //Go back a page
 function goBack(){
   let x = i-1
-  bg = loadImage('bg/'+ x +'.jpg')
+  bg = loadImage(x +'.jpg')
   page==page-1
 }
 
