@@ -49,6 +49,14 @@ $('#home').hide();
     $('#t3').text("Lung")
     $('#g3').text("TAAR1")
     $('#c3').text("****")
+      
+     $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+       $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t4').text("Uterus")
     $('#g4').text("VMAT2")
@@ -75,6 +83,14 @@ $('#home').hide();
     $('#t3').text("Liver")
     $('#g3').text("COX2")
     $('#c3').text("****")
+      
+       $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+       $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t4').text("Cardiac muscle")
     $('#g4').text("COX1")
@@ -97,6 +113,14 @@ $('#home').hide();
     $('#t2').text("Brain, Hippocampus")
     $('#g2').text("AMPA")
     $('#c2').text("****")
+      
+       $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+       $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t3').text("Testis")
     $('#g3').text("GABAa")
@@ -105,6 +129,7 @@ $('#home').hide();
     $('#t4').text("Rectal cancer cell")
     $('#g4').text("KLH2")
     $('#c4').text("***")
+      
    
     
   })
@@ -129,9 +154,13 @@ $('#home').hide();
     $('#g3').text("ADORA2A")
     $('#c3').text("****")
 
-    $('#t4').toggle()
-    $('#g4').toggle()
-    $('#c4').toggle()
+  $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+       $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
   })
 
@@ -155,7 +184,11 @@ $('#home').hide();
     $('#g3').text("CB2 receptor")
     $('#c3').text("****")
 
-    $('#t4').show()
+   $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+       $('#t4').show()
     $('#g4').show()
     $('#c4').show()
 
@@ -181,6 +214,14 @@ $('#home').hide();
     $('#t2').text("Small Intestine")
     $('#g2').text("5-HT3B")
     $('#c2').text("****")
+      
+    $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+    $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t3').text("Blood")
     $('#g3').text("5-HT3A")
@@ -214,6 +255,10 @@ $('#home').hide();
     $('#g3').text("HT1D 4")
     $('#c3').text("****")
 
+   $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
     $('#t4').show()
     $('#g4').show()
     $('#c4').show()
@@ -246,6 +291,10 @@ $('#home').hide();
     $('#g3').text("VMAT2")
     $('#c3').text("****")
 
+   $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
     $('#t4').show()
     $('#g4').show()
     $('#c4').show()
@@ -275,6 +324,10 @@ $('#home').hide();
     $('#g3').text("OPRD1")
     $('#c3').text("****")
 
+  $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
     $('#t4').show()
     $('#g4').show()
     $('#c4').show()
@@ -303,7 +356,10 @@ $('#home').hide();
     $('#t3').text("Blood")
     $('#g3').text("MOR")
     $('#c3').text("****")
-
+$('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
     $('#t4').show()
     $('#g4').show()
     $('#c4').show()
@@ -328,6 +384,11 @@ $('#home').hide();
     $('#t2').text("Cerebellum")
     $('#g2').text("NMDAR,AMPA")
     $('#c2').text("****")
+      
+      $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
 
     $('#t3').text("Leukocyte ")
     $('#g3').text("BDNF")
@@ -353,15 +414,20 @@ $('#home').hide();
     $('#t2').text("Lung")
     $('#g2').text("GPCR RECEPTOR")
     $('#c2').text("****")
+      
+      $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+    $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t3').text("Trachea")
     $('#g3').text("GPCR RECEPTOR")
     $('#c3').text("****")
 
-    $('#t4').show()
-    $('#g4').show()
-    $('#c4').show()
-
+   
     $('#t4').text("Gastroesophageal cancer cell")
     $('#g4').text("GPCR RECEPTOR")
     $('#c4').text("****")
@@ -405,6 +471,14 @@ $('#home').hide();
     $('#t2').text("Brain")
     $('#g2').text("AR")
     $('#c2').text("****")
+      
+      $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+    $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
     $('#t3').text("Liver")
     $('#g3').text("AR")
@@ -429,15 +503,20 @@ $('#home').hide();
     $('#t2').text("Cervical carcinoma cell")
     $('#g2').text("COX-2")
     $('#c2').text("****")
+      
+      $('#t3').show()
+    $('#g3').show()
+    $('#c3').show()
+      
+    $('#t4').show()
+    $('#g4').show()
+    $('#c4').show()
 
 
     $('#t3').text("Placenta")
     $('#g3').text("AM404")
     $('#c3').text("****")
 
-    $('#t4').show()
-    $('#g4').show()
-    $('#c4').show()
 
     $('#t4').text("T-cell chronic lymphocytic leukemia cell")
     $('#g4').text("AM404")
